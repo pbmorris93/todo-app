@@ -1,0 +1,19 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "Express API for my todo list.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbmorris93/todo-app.git"
+  },
+  "author": "Patrick Morris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbmorris93/todo-app/issues"
+  },
+  "homepage": "https://github.com/pbmorris93/todo-app#readme"
+}
